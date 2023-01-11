@@ -1,0 +1,9 @@
+[
+    {"username":"Hazel","email":"hbellocht0@instagram.com","password":"asd123","role":"Admin","phoneNumber":"968-919-9867","address":"181 Anderson Road"},
+    {"username":"Ulysses","email":"umalarkey1@uol.com.br","password":"asd123","role":"Admin","phoneNumber":"100-243-9789","address":"27541 Quincy Point"},
+    {"username":"Van","email":"agibling2@about.me","password":"asd123","role":"Admin","phoneNumber":"479-934-5445","address":"3431 Helena Way"},
+    {"username":"Kennedy","email":"kkarlicek3@google.com","password":"qwe123","role":"Staff","phoneNumber":"210-512-3958","address":"113 Maryland Trail"},
+    {"username":"Fleming","email":"fivantyev4@latimes.com","password":"qwe123","role":"Staff","phoneNumber":"266-372-2795","address":"31277 Maple Junction"},
+    {"username":"Luke","email":"lsanham5@multiply.com","password":"qwe123","role":"Staff","phoneNumber":"874-646-4987","address":"0 Burrows Drive"},
+    {"username":"Customer1","email":"customer1@mail.com","password":"asd123","role":"Customer","phoneNumber":"968-919-9867","address":"181 Anderson Road"}
+]

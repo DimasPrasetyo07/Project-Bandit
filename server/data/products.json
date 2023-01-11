@@ -1,0 +1,129 @@
+[
+  {
+    "name": "Gundam_00_Raiser",
+    "description": "MS from Anno Domini Era",
+    "price": 10000,
+    "stock": 8,
+    "imgUrl": "https://3.bp.blogspot.com/-pEfaeDStYwo/VQn93GqE8NI/AAAAAAAFL_w/OL-OhadrXbM/s1600/RG%2B00%2Braiser%2Bbox%2Bart.jpg",
+    "categoryId": 2,
+    "authorId": 1
+  },
+  {
+    "name": "Gundam_Unicorn",
+    "description": "MS From Universal Century Era",
+    "price": 11000,
+    "stock": 11,
+    "imgUrl": "https://www.mygundamtricks.com/wp-content/uploads/2017/08/rg-unicorn-gundam-box-art-1.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Gundam_Wing_EW",
+    "description": "MS From After Colony Era",
+    "price": 12000,
+    "stock": 11,
+    "imgUrl": "https://2.bp.blogspot.com/-EZ1XlxbskbA/VnZIq7SmU4I/AAAAAAAGHIk/3o2AjQKWmKM/s1600/RG%2BWing%2BGundam%2BEW%2B%25281%2529.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "nu_Gundam",
+    "description": "MS From Universal Century Era",
+    "price": 13000,
+    "stock": 12,
+    "imgUrl": "https://1.bp.blogspot.com/-bRmWZTXaYnc/XUJUw2G-zpI/AAAAAAAHNso/E_68JKoB-g83Tk5y3FmF6uX6h-ISfmPIQCLcBGAs/s1600/RG-NU-GUNDAM-BOX-ART.jpg",
+    "categoryId": 1,
+    "authorId": 2
+  },
+  {
+    "name": "Sinanju",
+    "description": "MS From Universal Century Era",
+    "price": 14000,
+    "stock": 12,
+    "imgUrl": "https://3.bp.blogspot.com/-B32iGrcl1PM/V6AQ1rwHDbI/AAAAAAAGWF8/mUOzwg3o6gkiyGGEy82Gzu2UQXF3UwOIQCLcB/s1600/RG%2Bsinanju%2Bbox%2Bart%2B%25281%2529.jpg",
+    "categoryId": 1,
+    "authorId": 2
+  },
+  {
+    "name": "Ninpulse_Gundam",
+    "description": "MS From Other Century Era",
+    "price": 15000,
+    "stock": 12,
+    "imgUrl": "https://www.mygundamtricks.com/wp-content/uploads/2017/08/hgbf-ninpulse-gundam-box-art.jpg",
+    "categoryId": 7,
+    "authorId": 2
+  },
+  {
+    "name": "Freedom_Gundam",
+    "description": "MS From Cosmic Era",
+    "price": 16000,
+    "stock": 12,
+    "imgUrl": "https://www.gundam.my/images/sell_products/big/image_2514.jpg",
+    "categoryId": 4,
+    "authorId": 2
+  },
+  {
+    "name": "Lightning_Gundam",
+    "description": "MS From Other Century Era",
+    "price": 17000,
+    "stock": 12,
+    "imgUrl": "http://2.bp.blogspot.com/-Rwzdlcb0bDI/VMpFEpuCuUI/AAAAAAAIR8k/zDKgcUPd0o8/s1600/Untitled-7.jpg",
+    "categoryId": 7,
+    "authorId": 2
+  },
+  {
+    "name": "TurnA_Gundam",
+    "description": "MS From Correct Century Era",
+    "price": 18000,
+    "stock": 12,
+    "imgUrl": "https://ae01.alicdn.com/kf/Hbcd86e1565194707be4cf30607f15726R.jpg",
+    "categoryId": 5,
+    "authorId": 2
+  },
+  {
+    "name": "Ez8_Gundam",
+    "description": "MS From Universal Century Era",
+    "price": 19000,
+    "stock": 12,
+    "imgUrl": "https://www.gunjap.net/site/wp-content/uploads/2013/03/1701.jpg",
+    "categoryId": 1,
+    "authorId": 2
+  },
+  {
+    "name": "Zaku_II",
+    "description": "MS From Universal Century Era",
+    "price": 20000,
+    "stock": 12,
+    "imgUrl": "https://3.bp.blogspot.com/-bokmS-lEnW8/WeqKyzCvfiI/AAAAAAAGyIY/eyHlCj3krAcwHsyf_vMoF0j4Xsp_vkIwACLcBGAs/s1600/rg-johnny-ridden%2527s-zaku-II.JPG",
+    "categoryId": 1,
+    "authorId": 2
+  },
+  {
+    "name": "God_Gundam",
+    "description": "MS From Future Century Era",
+    "price": 21000,
+    "stock": 12,
+    "imgUrl": "https://farm4.static.flickr.com/3566/4553840741_89f712d973.jpg",
+    "categoryId": 6,
+    "authorId": 2
+  },
+  {
+    "name": "Gundam_Exia",
+    "description": "MS From Anno Domini Era",
+    "price": 22000,
+    "stock": 12,
+    "imgUrl": "https://www.gunjap.net/site/wp-content/uploads/2014/03/1695.jpg",
+    "categoryId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "Forbidden_Gundam",
+    "description": "MS From Cosmic Era",
+    "price": 23000,
+    "stock": 12,
+    "imgUrl": "http://2.bp.blogspot.com/-Qe2p35M0_pk/Twaru-YKROI/AAAAAAABvP0/oqEafX2xpS0/s1600/1.jpg",
+    "categoryId": 4,
+    "authorId": 2
+  }  
+
+]

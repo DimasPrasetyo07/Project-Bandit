@@ -1,0 +1,38 @@
+{
+  "name": "p2-cms-integration-server",
+  "version": "1.0.0",
+  "description": "CMS Integration - Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest --verbose --runInBand --forceExit --testTimeout=1000",
+    "start": "node app.js",
+    "dev": "nodemon bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hck-50-xenia-fox/p2-cms-integration-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hck-50-xenia-fox/p2-cms-integration-server/issues"
+  },
+  "homepage": "https://github.com/hck-50-xenia-fox/p2-cms-integration-server#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "env": "^0.0.2",
+    "express": "^4.18.1",
+    "google-auth-library": "^8.5.2",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^8.8.0",
+    "sequelize": "^6.23.0"
+  },
+  "devDependencies": {
+    "jest": "^29.1.2",
+    "supertest": "^6.3.0"
+  }
+}
